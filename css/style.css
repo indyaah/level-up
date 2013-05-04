@@ -81,6 +81,7 @@ header h2 {
     width:%80;
     margin:0 auto;
     text-align:center;
+	border-top: 1px solid #999;
 }
 
 #body * {
