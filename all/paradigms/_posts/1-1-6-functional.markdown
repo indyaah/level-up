@@ -6,7 +6,7 @@ time: 2012
 ---
 
 Started Writing a little bit in R to explore the functional aspect of programming.
-Wrote a sentiment analysis on [Narendra Modi][modi] app based on tweets/twitter just before Dec. [2012 Gujarat Local Assembly Elections][link].
+Wrote a sentiment analysis on [Narendra Modi][modi], based on tweets/twitter just before Dec. [2012 Gujarat Local Assembly Elections][link].
 
 So not marking as Done but Work In Progress.
 
